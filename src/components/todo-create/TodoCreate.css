@@ -1,0 +1,25 @@
+.todo-form {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.todo-form input {
+    height: 30px;
+    margin-right: 5px;
+    border: 1px solid skyblue;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.button {
+    padding: 2px 10px;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 50px;
+    cursor: pointer;
+    background-color: skyblue;
+}

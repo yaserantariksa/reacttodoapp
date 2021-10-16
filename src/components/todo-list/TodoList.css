@@ -1,0 +1,7 @@
+ul > li {
+    border: 1px solid pink;
+    padding: 10px 20px;
+    margin: 10px;
+    list-style: none;
+    border-radius: 20px;
+}
